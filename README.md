@@ -1,0 +1,2 @@
+# scriptAutomacao
+Script de automação
